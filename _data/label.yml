@@ -10,7 +10,7 @@ panel:
   toc: 目录导航
 
 post:
-  relate_posts: Further Reading
+  relate_posts: 更多文章
   button:
     next: 更新
     previous: 更早
