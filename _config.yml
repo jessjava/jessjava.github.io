@@ -184,6 +184,7 @@ exclude:
   - docs
   - README.md
   - LICENSE
+  - rakefile
 
 jekyll-archives:
   enabled: [categories, tags]
